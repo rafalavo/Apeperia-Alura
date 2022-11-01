@@ -1,2 +1,2 @@
-# Apeperia-Alura
-Site de aplicativos da Alura
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
